@@ -1,1 +1,0 @@
-#writer a program to calulate the factorial of a given number using for loop.
