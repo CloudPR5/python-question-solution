@@ -1,1 +1,0 @@
-"""write a program which find out whwther a given name is present ina list or not """
